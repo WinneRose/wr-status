@@ -4,7 +4,7 @@ repo: wr-status # The name of this repository
 
 sites:
   - name: WinneRoseSMP
-    url: https://play.winnerose.live/
+    url: play.winnerose.live/
   - name: Documentations
     url: https://docs.winnerose.live/
   - name: Root Website
