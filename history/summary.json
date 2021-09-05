@@ -4,18 +4,19 @@
     "url": "play.winnerose.live/",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "winne-rose-smp",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 489,
     "timeDay": 359,
     "timeWeek": 492,
     "timeMonth": 489,
     "timeYear": 489,
     "dailyMinutesDown": {
+      "2021-09-05": 0,
       "2021-08-28": 102
     }
   },
@@ -42,7 +43,7 @@
     "url": "winnerose.live/",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "root-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +54,8 @@
     "timeWeek": 477,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-05": 0
+    }
   }
 ]
