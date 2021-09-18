@@ -24,7 +24,7 @@
     "url": "https://docs.winnerose.live/",
     "icon": "https://favicons.githubusercontent.com/docs.winnerose.live",
     "slug": "documentations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 160,
     "timeMonth": 155,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-18": 0
+    }
   },
   {
     "name": "Root Website",
