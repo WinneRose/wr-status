@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "winne-rose-smp",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 398,
-    "timeDay": 363,
-    "timeWeek": 353,
+    "timeDay": 413,
+    "timeWeek": 358,
     "timeMonth": 343,
     "timeYear": 398,
     "dailyMinutesDown": {
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 305,
-    "timeDay": 156,
-    "timeWeek": 121,
-    "timeMonth": 211,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 130,
+    "timeWeek": 124,
+    "timeMonth": 212,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2021-09-18": 24
     }
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 184,
-    "timeWeek": 169,
-    "timeMonth": 127,
-    "timeYear": 237,
+    "time": 236,
+    "timeDay": 52,
+    "timeWeek": 150,
+    "timeMonth": 125,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   }
 ]
