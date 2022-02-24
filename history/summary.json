@@ -4,7 +4,7 @@
     "url": "play.winnerose.live/",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "winne-rose-smp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 362,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2022-02-24": 0,
       "2021-11-25": 697,
       "2021-11-24": 378,
       "2021-11-07": 75,
